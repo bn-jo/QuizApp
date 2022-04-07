@@ -31,6 +31,18 @@ const quizData = [
         d: "2002",
         correct: "b",
     },
+    
+    
+       {
+        question: "How do programmers enjoy life?",
+        a: "Movies",
+        b: "Eating fancy food",
+        c: "Video games",
+        d: "Watch their code run without error",
+        correct: "d",
+    },
+    
+    
 ];
 
 const quiz = document.getElementById('quiz')
